@@ -1,0 +1,22 @@
+{
+  "name": "node-hw-01",
+  "version": "1.0.0",
+  "description": "Node Moduł 1 - Aplikacje konsolowe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakub0821/goit-node-hw-01.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Jakub0821",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakub0821/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Jakub0821/goit-node-hw-01#readme"
+}
