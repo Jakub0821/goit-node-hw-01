@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Node Moduł 1 - Aplikacje konsolowe",
   "main": "index.js",
+  "start": "node index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodem index.js"
   },
   "repository": {
     "type": "git",
