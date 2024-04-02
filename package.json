@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Jakub0821/goit-node-hw-01#readme",
   "dependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "bar": "0.1x"
   }
 }
