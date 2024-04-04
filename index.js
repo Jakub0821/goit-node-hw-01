@@ -3,7 +3,7 @@ const {
     getContactById,
     addContact,
     removeContact,
-  } = require("./contacts.js");
+  } = require("./contacts.json");
   const argv = require("yargs").argv;
   
   const invokeAction = async ({ action, id, name, email, phone }) => {
