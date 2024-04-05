@@ -68,8 +68,3 @@ const removeContact = async (contactId) => {
 };
 
 module.exports = { listContacts, getContactById, addContact, removeContact };
-
-// listContacts();
-// getContactById("rsKkOQUi80UsgVPCcLZZW");
-// addContact("Paweł Brzozowski", "pawel@brzoza.net", "(48) 502636629");
-// removeContact("rsKkOQUi80UsgVPCcLZZW");
